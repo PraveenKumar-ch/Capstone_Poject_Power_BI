@@ -15,6 +15,10 @@ Create a dynamic visual that compares the number of delayed orders to the number
 Instruction to submit the capstone
 
 **PowerBI Dashboard (PBIX File):** Provide the Power BI dashboard in a PBIX file format. Create a Power BI dashboard in a single sheet that includes all the charts for the given 8 questions. The file should contain all necessary visualizations, slicers, and data connections for the analysis.
+![Capstone_Power_BI_DashBoard](https://github.com/user-attachments/assets/765c487e-153b-49e5-a0fe-51e7c45d43aa)
+
+![Capstone_Power_BI_DashBoard_Details](https://github.com/user-attachments/assets/a7d07d93-02f5-4460-8650-0bf95ba02a70)
+
 
 **Dashboard Report (DOC File):** Create a detailed report document in DOC format that explains the dashboard comprehensively. Include screenshots or images of the dashboard visuals in the document for a clear representation. For each question/task outlined in the Power BI Capstone Project, include a section with the following details:
 
